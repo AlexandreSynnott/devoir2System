@@ -5,10 +5,10 @@ mkdir ~/cegep
 mkdir ~/projets
 
 
-sudo pacman -S git
-sudo pacman -S vim
-sudo pacman -S gcc
-sudo pacman -S gdb
-sudo pacman -S python3
-sudo pacman -S python3-pip
-sudo pacman -S python3-venv
+sudo pacman -Sy git
+sudo pacman -Sy vim
+sudo pacman -Sy gcc
+sudo pacman -Sy gdb
+sudo pacman -Sy python3
+sudo pacman -Sy python3-pip
+sudo pacman -Sy python3-venv
